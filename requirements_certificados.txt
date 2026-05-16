@@ -1,0 +1,6 @@
+pillow
+pypdf
+reportlab
+pyinstaller
+flask
+gunicorn
